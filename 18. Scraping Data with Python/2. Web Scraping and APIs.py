@@ -1,0 +1,9 @@
+# https://www.udemy.com/robots.txt
+# https://news.ycombinator.com/robots.txt
+# https://www.airbnb.com/robots.txt
+# https://www.google.com/search?q=chrome+plugin+web+scraper&oq=chrome+plugin+web+scraper&aqs=chrome.0.0i512j0i22i30.10445j0j4&sourceid=chrome&ie=UTF-8
+# https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=en
+# https://www.udemy.com/developers/instructor/
+# https://docs.github.com/en/rest
+# https://swapi.dev/
+# https://jsonplaceholder.typicode.com/
